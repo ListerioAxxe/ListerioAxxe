@@ -8,6 +8,9 @@
     <li>
     <strong><a href="https://github.com/ListerioAxxe/job4j_tracker">"Tracker"</a></strong> Java SE, PostgreSQL, JDBC, Liquibase, JUnit4.  + Hibernate
   </li>
+      <li>
+    <strong><a href="https://github.com/ListerioAxxe/job4j_threads">"Решение задач по многопоточному программированию"</a></strong>
+  </li>
   <li>
     <strong><a href="https://github.com/ListerioAxxe/job4j_dreamjob">"Dream Job"</a></strong> Java EE Servlets, JSP, JSTL, PostgreSQL, JDBC, Liquibase, JUnit4, Mockito, PowerMock
   </li>
