@@ -3,7 +3,7 @@
 <h4>Мои проекты на Java:</h4>
 <ul>
   <li>
-    <strong><a href="https://github.com/ListerioAxxe/car_accident">"Forum"</a></strong> Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
+    <strong><a href="https://github.com/ListerioAxxe/car_accident">"Forum"</a></strong> Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven
   </li>
     <li>
     <strong><a href="https://github.com/ListerioAxxe/job4j_tracker">"Tracker"</a></strong> Java SE, PostgreSQL, JDBC, Liquibase, JUnit4.  + Hibernate
