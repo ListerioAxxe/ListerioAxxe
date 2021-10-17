@@ -20,6 +20,10 @@
     <li>
     <strong><a href="https://github.com/ListerioAxxe/job4j_elementary">"Решение учебных практических задач"</a></strong>
   </li>
+  <li>
+    <strong><a href="https://github.com/ListerioAxxe/job4j_design">"Коллекции, потоки ввода вывода, JDBC, решение типичных задач"</a></strong>
+  </li>
+  
   <!-- <li><strong><a href=""></a></strong></li> -->
 </ul>
 <br>
